@@ -1,1 +1,1 @@
-# Python-Projects
+# Alguns projetos e exercícios em Python :)
